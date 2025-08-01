@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🤖 Cura AI – Your Intelligent Health Companion
 
-## Getting Started
+Cura AI is an AI-powered health assistant designed to provide personalized health analysis and emotionally intelligent conversations. It aims to make healthcare more **accessible**, **human-like**, and **region-friendly** for everyone.
 
-First, run the development server:
+---
+
+## 🌟 Features
+
+### 1. 🩺 Health Analyzer
+Users answer a few simple questions, and Cura AI generates a **detailed personalized health report** including:
+- BMI, stress levels, hydration, and physical activity overview
+- Suggested natural remedies and daily routine
+- Recommended lab tests based on responses
+- Age-specific health risks and meal planning
+
+### 2. 💬 Sentiment-Aware Chatbot
+Cura AI includes an emotionally intelligent chatbot that:
+- Understands and responds with **human-like empathy**
+- Offers accurate health-related guidance in a **natural conversation flow**
+- Supports **multiple languages** for regional accessibility
+
+---
+
+## 🔮 Future Enhancements
+
+We plan to extend Cura AI with:
+
+- 📞 **Voice Call Agent** – Talk to Cura over a phone call
+- 🧍‍♂️ **3D Human Model** – Visually explain health problems
+- 🏥 **Emergency Support** – Nearby hospital info and ambulance calls
+- 📸 **Camera-Based Analysis** – Photo or live camera symptom detection
+
+---
+
+## 🧠 Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **AI Tools:** Natural Language Processing, Sentiment Analysis, Health Rule Engine  
+- **Languages Supported:** Multilingual (via AI translation and detection)
+
+---
+
+## 🚀 How to Run Locally
 
 ```bash
+# Clone the repository
+git clone https://github.com/your-username/cura-ai.git
+
+# Navigate into the project directory
+cd cura-ai
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
