@@ -45,7 +45,7 @@ We plan to extend Cura AI with:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/cura-ai.git
+git clone https://github.com/mufaddal-lashkar/curaai.git
 
 # Navigate into the project directory
 cd cura-ai
