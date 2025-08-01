@@ -180,10 +180,10 @@ const CryptoLearnHomePage = () => {
                           className="w-6 h-6 rounded-full border-2 object-cover border-white"
                           alt="Instructor"
                         />
-                        <span className="text-xs font-medium">Sarah Chen, Lead Instructor</span>
+                        <span className="text-xs font-medium">Cura AI, AI powered doctor</span>
                       </div>
                       <p className="text-xs leading-4 max-w-[200px] backdrop-blur-sm rounded-lg p-2 bg-black/20">
-                        &quot;From zero to crypto hero in 8 weeks. I&apos;ll guide you through every step of your blockchain journey!&quot;
+                        &quot;From basic anatomy to clinical excellence in 8 weeks. I&apos;ll guide you through every step of your medical journey!&quot;
                       </p>
                     </div>
 
@@ -201,10 +201,10 @@ const CryptoLearnHomePage = () => {
                     <div className="absolute bottom-4 left-4 right-4">
                       <div className="backdrop-blur-sm rounded-lg p-3 bg-white/10">
                         <div className="flex items-center justify-between text-sm text-white">
-                          <span>Current Module: DeFi Fundamentals</span>
+                          <span>Current Module: Cura AI</span>
                           <span className="flex items-center gap-1">
                             <Clock className="w-3 h-3" />
-                            24 min
+                            2 min
                           </span>
                         </div>
                         <div className="mt-2 rounded-full h-1 bg-white/20">
@@ -221,8 +221,8 @@ const CryptoLearnHomePage = () => {
                         <TrendingUp className="w-5 h-5 text-green-600" />
                       </div>
                       <div>
-                        <p className="text-sm font-semibold">Portfolio Growth</p>
-                        <p className="text-xs text-gray-600">+247% avg student gain</p>
+                        <p className="text-sm font-semibold">Medical Accuracy</p>
+                        <p className="text-xs text-gray-600">+82% precise and accurate</p>
                       </div>
                     </div>
                   </div>
