@@ -123,7 +123,7 @@ const CryptoLearnHomePage = () => {
 
                   {/* Hero Description */}
                   <p className="text-base sm:text-lg max-w-xl animate-slide-up animate-delay-400 mt-6 text-gray-600">
-                    From daily health basics to personalized care insights, unlock the secrets of better living with our all-in-one AI health companion. Join thousands who've already taken charge of their well-being with Cura AI.
+                    From daily health basics to personalized care insights, unlock the secrets of better living with our all-in-one AI health companion. Join thousands who&apos;ve already taken charge of their well-being with Cura AI.
                   </p>
 
                   {/* CTA Buttons */}
@@ -183,7 +183,7 @@ const CryptoLearnHomePage = () => {
                         <span className="text-xs font-medium">Sarah Chen, Lead Instructor</span>
                       </div>
                       <p className="text-xs leading-4 max-w-[200px] backdrop-blur-sm rounded-lg p-2 bg-black/20">
-                        "From zero to crypto hero in 8 weeks. I'll guide you through every step of your blockchain journey!"
+                        &quot;From zero to crypto hero in 8 weeks. I&apos;ll guide you through every step of your blockchain journey!&quot;
                       </p>
                     </div>
 
